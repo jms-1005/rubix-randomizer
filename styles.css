@@ -1,0 +1,25 @@
+.main{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    height: 90vh;
+}
+.container{
+    width:380px;
+}
+
+.cube{
+    width:100px;
+    height: 100px;
+    display: inline-block;
+    border: 12px solid black;
+    border-radius:10px;
+}
+
+.btn{
+    padding: 20px;
+    margin: 20px;
+}
